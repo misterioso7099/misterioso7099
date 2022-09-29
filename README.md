@@ -1,11 +1,3 @@
-- 👋 olá meu nome é @misterioso7099
-:
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-misterioso7099/misterioso7099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ola meu nome é  @misterioso7099
+- :no_entry_sign:meu email de contato é vitor.hugosilvade.paula@escola.pr.gov.br
+:brazil:eu estou começando no pensamento computacional o uso da plataforma github
